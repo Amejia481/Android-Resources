@@ -4,8 +4,11 @@ Set of tips for Android developers
 ##Android Studio Tools
 - [APK Analyzer][android_studio_apk_analyzer]  Give a X-ray look to your APK.
 - [Merged Manifest Viewer] [manifest_viewer] A clear view of your Manifest file of all the stuff that you didn't add there.
+- [UI Designer & Constraint Layout] [Designer_constraint_layout] It may help to create your layout quickly and easily, just using drag and drop.
 
-Diagnose how your AndroidManifest.xml merges with your app dependences across your project build variants. 
+## Podcast
+- [fragmentedpodcast] [podcast_fragmented]
+- [androidbackstage] [podcast_androidbackstage]
 
 ## Great articles.
 - [How often should you update android studio][youtube_gaming]
@@ -25,4 +28,8 @@ http://tools.android.com/tips/layout-designtime-attributes
 [article]: <https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.gaming>
 [android_studio_apk_analyzer]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=333>
 [manifest_viewer]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=429>
+[Designer_constraint_layout]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=1558>
+[podcast_fragmented]: <http://fragmentedpodcast.com/>
+[podcast_androidbackstage]: <http://androidbackstage.blogspot.com/>
+
 
