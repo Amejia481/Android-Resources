@@ -6,6 +6,9 @@ Set of tips for Android developers
 - [Merged Manifest Viewer] [manifest_viewer] A clear view of your Manifest file of all the stuff that you didn't add there.
 - [UI Designer & Constraint Layout] [Designer_constraint_layout] It may help to create your layout quickly and easily, just using drag and drop.
 
+##Tools 
+- [Android Annotations][tools_android_annotations]
+
 ## Podcast
 - [fragmentedpodcast] [podcast_fragmented]
 - [androidbackstage] [podcast_androidbackstage]
@@ -31,5 +34,6 @@ http://tools.android.com/tips/layout-designtime-attributes
 [Designer_constraint_layout]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=1558>
 [podcast_fragmented]: <http://fragmentedpodcast.com/>
 [podcast_androidbackstage]: <http://androidbackstage.blogspot.com/>
+[tools_android_annotations]: <https://developer.android.com/studio/write/annotations.html>
 
 
