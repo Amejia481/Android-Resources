@@ -15,6 +15,8 @@ Set of tips for Android developers
 
 ## Great Videos.
 - [Why gradle][great_video_why_gradel]  Xavier Ducrohet describe Gradel Android build system at Google I/O 2013
+- [Android Design in Action Responsive Design][great_videos_responsive_design] various elements of Android Design.
+- [Android Design in Action playlist][great_videos_action_design_play_list] elements of Android Design.
 - [Myths Busting HTTPS][great_video_myth_busting_https] Some common myths and fears about HTTPS
 
 ## Great articles.
@@ -41,6 +43,6 @@ http://tools.android.com/tips/layout-designtime-attributes
 [tools_android_annotations]: <https://developer.android.com/studio/write/annotations.html>
 [great_video_why_gradel]: <https://www.youtube.com/watch?v=LCJAgPkpmR0>
 [great_video_myth_busting_https]: <https://youtu.be/e6DUrH56g14>
-
- 
+[great_videos_responsive_design]: <https://www.youtube.com/watch?v=zHirwKGEfoE>
+[great_videos_action_design_play_list]: <https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF>
 
