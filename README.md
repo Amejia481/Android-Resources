@@ -14,7 +14,8 @@ Set of tips for Android developers
 - [androidbackstage] [podcast_androidbackstage]
 
 ## Great Videos.
-[Why gradle][great_video_why_gradel]  Xavier Ducrohet describe Gradel Android build system at Google I/O 2013
+- [Why gradle][great_video_why_gradel]  Xavier Ducrohet describe Gradel Android build system at Google I/O 2013
+- [Myths Busting HTTPS][great_video_myth_busting_https] Some common myths and fears about HTTPS
 
 ## Great articles.
 - [How often should you update android studio][youtube_gaming]
@@ -39,5 +40,7 @@ http://tools.android.com/tips/layout-designtime-attributes
 [podcast_androidbackstage]: <http://androidbackstage.blogspot.com/>
 [tools_android_annotations]: <https://developer.android.com/studio/write/annotations.html>
 [great_video_why_gradel]: <https://www.youtube.com/watch?v=LCJAgPkpmR0>
+[great_video_myth_busting_https]: <https://youtu.be/e6DUrH56g14>
 
+ 
 
