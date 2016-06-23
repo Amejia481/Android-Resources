@@ -13,6 +13,9 @@ Set of tips for Android developers
 - [fragmentedpodcast] [podcast_fragmented]
 - [androidbackstage] [podcast_androidbackstage]
 
+## Great Videos.
+[Why gradle][great_video_why_gradel]  Xavier Ducrohet describe Gradel Android build system at Google I/O 2013
+
 ## Great articles.
 - [How often should you update android studio][youtube_gaming]
 
@@ -35,5 +38,6 @@ http://tools.android.com/tips/layout-designtime-attributes
 [podcast_fragmented]: <http://fragmentedpodcast.com/>
 [podcast_androidbackstage]: <http://androidbackstage.blogspot.com/>
 [tools_android_annotations]: <https://developer.android.com/studio/write/annotations.html>
+[great_video_why_gradel]: <https://www.youtube.com/watch?v=LCJAgPkpmR0>
 
 
