@@ -12,12 +12,21 @@ Set of tips for Android developers
 ## Podcast
 - [fragmentedpodcast] [podcast_fragmented]
 - [androidbackstage] [podcast_androidbackstage]
+- [Android Dialogs] [podcast_adroid_dialogs]
+
+## Conferences
+- [Droidcon][conferences_droicon]
+- [Droidcon Berlin][conferences_droidcon_berlin] 
+- [Doidcon Montreal][conferences_droicon_montreal]
+
 
 ## Great Videos.
 - [Why gradle][great_video_why_gradel]  Xavier Ducrohet describe Gradel Android build system at Google I/O 2013
 - [Android Design in Action Responsive Design][great_videos_responsive_design] various elements of Android Design.
 - [Android Design in Action playlist][great_videos_action_design_play_list] elements of Android Design.
 - [Myths Busting HTTPS][great_video_myth_busting_https] Some common myths and fears about HTTPS
+
+
 
 ## Great articles.
 - [How often should you update android studio][youtube_gaming]
@@ -40,9 +49,13 @@ http://tools.android.com/tips/layout-designtime-attributes
 [Designer_constraint_layout]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=1558>
 [podcast_fragmented]: <http://fragmentedpodcast.com/>
 [podcast_androidbackstage]: <http://androidbackstage.blogspot.com/>
+[podcast_adroid_dialogs]: <https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed> 
 [tools_android_annotations]: <https://developer.android.com/studio/write/annotations.html>
 [great_video_why_gradel]: <https://www.youtube.com/watch?v=LCJAgPkpmR0>
 [great_video_myth_busting_https]: <https://youtu.be/e6DUrH56g14>
 [great_videos_responsive_design]: <https://www.youtube.com/watch?v=zHirwKGEfoE>
 [great_videos_action_design_play_list]: <https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF>
+[conferences_droidcon_berlin]: <https://www.youtube.com/channel/UCF4O2pQ8vBV8YmSAWb5QRPw>
+[conferences_droicon]: <https://www.youtube.com/user/droidcon>
+[conferences_droicon_montreal]: <https://www.youtube.com/channel/UCrOKtfBT1QMV1RY2MqARcUQ>
 
