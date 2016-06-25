@@ -1,5 +1,4 @@
-# Android-development-tips
-Set of tips for Android developers
+# Android Resources
 
 ##Android Studio Tools
 - [APK Analyzer][android_studio_apk_analyzer]  Give a X-ray look to your APK.
