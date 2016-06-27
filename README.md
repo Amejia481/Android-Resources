@@ -4,6 +4,7 @@
 - [APK Analyzer][android_studio_apk_analyzer]  Give a X-ray look to your APK.
 - [Merged Manifest Viewer] [manifest_viewer] A clear view of your Manifest file of all the stuff that you didn't add there.
 - [UI Designer & Constraint Layout] [Designer_constraint_layout] It may help to create your layout quickly and easily, just using drag and drop.
+- [Layout Inspector][android_studio_tools_layout_inspector] Drill into the view hierarchy of your app and analyze the attributes of each component of UI on the screen
 
 ##Tools 
 - [Android Annotations][tools_android_annotations]
@@ -57,4 +58,6 @@ http://tools.android.com/tips/layout-designtime-attributes
 [conferences_droidcon_berlin]: <https://www.youtube.com/channel/UCF4O2pQ8vBV8YmSAWb5QRPw>
 [conferences_droicon]: <https://www.youtube.com/user/droidcon>
 [conferences_droicon_montreal]: <https://www.youtube.com/channel/UCrOKtfBT1QMV1RY2MqARcUQ>
+[android_studio_tools_layout_inspector]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=1734>
+
 
