@@ -10,6 +10,11 @@
 ##Tools 
 - [Android Annotations][tools_android_annotations]
 
+####Connectivity
+- [Charles Proxy][tool_connectivity_charles_proxy]  Limit the bandwidth of your internet connection
+
+ 
+ 
 ## Podcast
 - [fragmentedpodcast] [podcast_fragmented]
 - [androidbackstage] [podcast_androidbackstage]
@@ -29,6 +34,7 @@
 - [Android Design in Action Responsive Design][great_videos_responsive_design] various elements of Android Design.
 - [Android Design in Action playlist][great_videos_action_design_play_list] elements of Android Design.
 - [Myths Busting HTTPS][great_video_myth_busting_https] Some common myths and fears about HTTPS
+- [Experts App Clinic][great_videos_experts_app_clinic] Best practices when building apps for billions - Google I/O 2016
 
 ## Code Style
 
@@ -62,6 +68,7 @@ http://tools.android.com/tips/layout-designtime-attributes
 [great_video_myth_busting_https]: <https://youtu.be/e6DUrH56g14>
 [great_videos_responsive_design]: <https://www.youtube.com/watch?v=zHirwKGEfoE>
 [great_videos_action_design_play_list]: <https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF>
+[great_videos_experts_app_clinic]:<https://youtu.be/Fhj7IIsAgyE?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte>
 [conferences_droidcon_berlin]: <https://www.youtube.com/channel/UCF4O2pQ8vBV8YmSAWb5QRPw>
 [conferences_droicon]: <https://www.youtube.com/user/droidcon>
 [conferences_droicon_montreal]: <https://www.youtube.com/channel/UCrOKtfBT1QMV1RY2MqARcUQ>
@@ -70,4 +77,5 @@ http://tools.android.com/tips/layout-designtime-attributes
 [youtube_channels_square_engineering]: <https://www.youtube.com/user/SquareEngineering>
 [android_studio_tools_espresso_test_recorder]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=2490>
 [code_style_android_source_code_style]: <http://source.android.com/source/code-style.html>
+[tool_connectivity_charles_proxy]: <https://www.charlesproxy.com/>
 
