@@ -30,7 +30,9 @@
 - [Android Design in Action playlist][great_videos_action_design_play_list] elements of Android Design.
 - [Myths Busting HTTPS][great_video_myth_busting_https] Some common myths and fears about HTTPS
 
+## Code Style
 
+- [Android Source Style][code_style_android_source_code_style]
 
 
 ## Great articles.
@@ -67,5 +69,5 @@ http://tools.android.com/tips/layout-designtime-attributes
 [android_studio_tools_layout_inspector]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=1734>
 [youtube_channels_square_engineering]: <https://www.youtube.com/user/SquareEngineering>
 [android_studio_tools_espresso_test_recorder]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=2490>
-
+[code_style_android_source_code_style]: <http://source.android.com/source/code-style.html>
 
