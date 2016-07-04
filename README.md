@@ -1,19 +1,28 @@
 # Android Resources
 
 ##Android Studio Tools
-- [APK Analyzer][android_studio_apk_analyzer]  Give a X-ray look to your APK.
-- [Merged Manifest Viewer] [manifest_viewer] A clear view of your Manifest file of all the stuff that you didn't add there.
+- [APK Analyzer][android_studio_apk_analyzer]  give a X-ray look to your APK.
+- [Merged Manifest Viewer] [manifest_viewer] a clear view of your Manifest file of all the stuff that you didn't add there.
 - [UI Designer & Constraint Layout] [Designer_constraint_layout] It may help to create your layout quickly and easily, just using drag and drop.
-- [Layout Inspector][android_studio_tools_layout_inspector] Drill into the view hierarchy of your app and analyze the attributes of each UI component
-- [Espresso Test Recorder][android_studio_tools_espresso_test_recorder] Record Espresso UI tests simply by using your app as a normal user.
+- [Layout Inspector][android_studio_tools_layout_inspector] drill into the view hierarchy of your app and analyze the attributes of each UI component
+- [Espresso Test Recorder][android_studio_tools_espresso_test_recorder] record Espresso UI tests simply by using your app as a normal user.
 
 ##Tools 
 - [Android Annotations][tools_android_annotations]
+- [Activity Recognition][tools_activity_recognition]
+ 
+
 
 ####Connectivity
-- [Charles Proxy][tool_connectivity_charles_proxy]  Limit the bandwidth of your internet connection
+- [Charles Proxy][tools_connectivity_charles_proxy]  limit the bandwidth of your internet connection.
+- [Stetho][tools_connectivity_stetho] give you access to chrome devTools, network and database inspection of your app.
 
- 
+####Battery
+- [Battery Historian][tools_battery_battery_historian] is a tool to inspect battery related information and events on an Android device.
+
+###Radio
+- [JobSchedular][tools_radio_jobschedular] or [GCMManager][tools_radio_gcmmanager] save a lot of juice to your app using batch calls
+
  
 ## Podcast
 - [fragmentedpodcast] [podcast_fragmented]
@@ -33,8 +42,8 @@
 - [Why gradle][great_video_why_gradel]  Xavier Ducrohet describe Gradel Android build system at Google I/O 2013
 - [Android Design in Action Responsive Design][great_videos_responsive_design] various elements of Android Design.
 - [Android Design in Action playlist][great_videos_action_design_play_list] elements of Android Design.
-- [Myths Busting HTTPS][great_video_myth_busting_https] Some common myths and fears about HTTPS
-- [Experts App Clinic][great_videos_experts_app_clinic] Best practices when building apps for billions - Google I/O 2016
+- [Myths Busting HTTPS][great_video_myth_busting_https] some common myths and fears about HTTPS
+- [Experts App Clinic][great_videos_experts_app_clinic] best practices when building apps for billions - Google I/O 2016
 
 ## Code Style
 
@@ -77,5 +86,9 @@ http://tools.android.com/tips/layout-designtime-attributes
 [youtube_channels_square_engineering]: <https://www.youtube.com/user/SquareEngineering>
 [android_studio_tools_espresso_test_recorder]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=2490>
 [code_style_android_source_code_style]: <http://source.android.com/source/code-style.html>
-[tool_connectivity_charles_proxy]: <https://www.charlesproxy.com/>
-
+[tools_connectivity_charles_proxy]: <https://www.charlesproxy.com/>
+[tools_connectivity_stetho]: <http://facebook.github.io/stetho/>
+[tools_battery_battery_historian]: <https://github.com/google/battery-historian>
+[tools_radio_jobschedular]:<https://developer.android.com/reference/android/app/job/JobScheduler.html>
+[tools_radio_gcmmanager]: <https://developers.google.com/cloud-messaging/network-manager#edit_your_applications_manifest>
+[tools_activity_recognition]: <https://developers.google.com/android/reference/com/google/android/gms/location/ActivityRecognitionApi#public-methods>
