@@ -1,5 +1,7 @@
 # Android Resources
 
+This a set of info that I have been compiling while I have been working on android.
+
 ##Android Studio Tools
 - [APK Analyzer][android_studio_apk_analyzer]  give a X-ray look to your APK.
 - [Merged Manifest Viewer] [manifest_viewer] a clear view of your Manifest file of all the stuff that you didn't add there.
@@ -10,8 +12,12 @@
 ##Tools 
 - [Android Annotations][tools_android_annotations]
 - [Activity Recognition][tools_activity_recognition]
- 
+- [StrictMode][tools_strict_mode] a developer tool which detects things you might be doing by accident.
+- [Profile GPU Rendering][tools_profile_gpu_rendering] gives you a quick visual representation of how much time it takes to render the frames of a UI.
+- [Debug GPU overdraw][tools_debug_gpu_overdraw] shows you where your app might be doing more rendering work than necessary.
 
+####Memory
+- [LeakCanary][tools_memory_leakcanary] a memory leak detection library.
 
 ####Connectivity
 - [Charles Proxy][tools_connectivity_charles_proxy]  limit the bandwidth of your internet connection.
@@ -20,7 +26,7 @@
 ####Battery
 - [Battery Historian][tools_battery_battery_historian] is a tool to inspect battery related information and events on an Android device.
 
-###Radio
+####Radio
 - [JobSchedular][tools_radio_jobschedular] or [GCMManager][tools_radio_gcmmanager] save a lot of juice to your app using batch calls
 
  
@@ -92,3 +98,7 @@ http://tools.android.com/tips/layout-designtime-attributes
 [tools_radio_jobschedular]:<https://developer.android.com/reference/android/app/job/JobScheduler.html>
 [tools_radio_gcmmanager]: <https://developers.google.com/cloud-messaging/network-manager#edit_your_applications_manifest>
 [tools_activity_recognition]: <https://developers.google.com/android/reference/com/google/android/gms/location/ActivityRecognitionApi#public-methods>
+[tools_memory_leakcanary]:<https://github.com/square/leakcanary>
+[tools_strict_mode]:<https://developer.android.com/reference/android/os/StrictMode.html>
+[tools_profile_gpu_rendering]:<https://developer.android.com/studio/profile/dev-options-rendering.html>
+[tools_debug_gpu_overdraw]:<https://developer.android.com/studio/profile/dev-options-overdraw.html>
