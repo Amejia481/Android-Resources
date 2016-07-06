@@ -15,7 +15,10 @@ This a set of info that I have been compiling while I have been working on andro
 - [StrictMode][tools_strict_mode] a developer tool which detects things you might be doing by accident.
 - [Profile GPU Rendering][tools_profile_gpu_rendering] gives you a quick visual representation of how much time it takes to render the frames of a UI.
 - [Debug GPU overdraw][tools_debug_gpu_overdraw] shows you where your app might be doing more rendering work than necessary.
-
+- [Hierarchy Viewer][tools_hierarchy_viewer] visualizes your app's view hierarchy and profile the relative rendering speed for each view.
+- [Systrace][tools_systrace] allows you to collect and inspect timing information across an entire Android device.
+ 
+ 
 ####Memory
 - [LeakCanary][tools_memory_leakcanary] a memory leak detection library.
 
@@ -102,3 +105,5 @@ http://tools.android.com/tips/layout-designtime-attributes
 [tools_strict_mode]:<https://developer.android.com/reference/android/os/StrictMode.html>
 [tools_profile_gpu_rendering]:<https://developer.android.com/studio/profile/dev-options-rendering.html>
 [tools_debug_gpu_overdraw]:<https://developer.android.com/studio/profile/dev-options-overdraw.html>
+[tools_hierarchy_viewer]:<https://developer.android.com/studio/profile/hierarchy-viewer-walkthru.html>
+[tools_systrace]:<https://developer.android.com/studio/profile/systrace.html> 
