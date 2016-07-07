@@ -21,6 +21,8 @@ This a set of info that I have been compiling while I have been working on andro
  
 ####Memory
 - [LeakCanary][tools_memory_leakcanary] a memory leak detection library.
+- [Allocation Tracker][tools_memory_allocation_tracker]
+records each memory allocation that your app performs during the profiling cycle
 
 ####Connectivity
 - [Charles Proxy][tools_connectivity_charles_proxy]  limit the bandwidth of your internet connection.
@@ -32,6 +34,8 @@ This a set of info that I have been compiling while I have been working on andro
 ####Radio
 - [JobSchedular][tools_radio_jobschedular] or [GCMManager][tools_radio_gcmmanager] save a lot of juice to your app using batch calls
 
+## Tutorials
+ - [Intro Lambdas android][tutorial_intro_lambdas]
  
 ## Podcast
 - [fragmentedpodcast] [podcast_fragmented]
@@ -44,10 +48,11 @@ This a set of info that I have been compiling while I have been working on andro
 - [Doidcon Montreal][conferences_droicon_montreal]
 - [Touchlab][conferences_touchlab]
 
-##Youtube Channels 
+## Youtube Channels 
 - [Square Engineering][youtube_channels_square_engineering]
 
 ## Great Videos.
+
 - [Why gradle][great_video_why_gradel]  Xavier Ducrohet describe Gradel Android build system at Google I/O 2013
 - [Android Design in Action Responsive Design][great_videos_responsive_design] various elements of Android Design.
 - [Android Design in Action playlist][great_videos_action_design_play_list] elements of Android Design.
@@ -102,8 +107,10 @@ http://tools.android.com/tips/layout-designtime-attributes
 [tools_radio_gcmmanager]: <https://developers.google.com/cloud-messaging/network-manager#edit_your_applications_manifest>
 [tools_activity_recognition]: <https://developers.google.com/android/reference/com/google/android/gms/location/ActivityRecognitionApi#public-methods>
 [tools_memory_leakcanary]:<https://github.com/square/leakcanary>
+[tools_memory_allocation_tracker]:<https://developer.android.com/studio/profile/allocation-tracker-walkthru.html>
 [tools_strict_mode]:<https://developer.android.com/reference/android/os/StrictMode.html>
 [tools_profile_gpu_rendering]:<https://developer.android.com/studio/profile/dev-options-rendering.html>
 [tools_debug_gpu_overdraw]:<https://developer.android.com/studio/profile/dev-options-overdraw.html>
 [tools_hierarchy_viewer]:<https://developer.android.com/studio/profile/hierarchy-viewer-walkthru.html>
 [tools_systrace]:<https://developer.android.com/studio/profile/systrace.html> 
+[tutorial_intro_lambdas]:<https://caster.io/episodes/java-8-lambdas-on-android-n/>
