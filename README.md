@@ -11,7 +11,10 @@ This a set of info that I have been compiling while I have been working on andro
 
 ##Tools 
 - [Android Annotations][tools_android_annotations]
+- [Timber][tools_timber] a small, extensible API which provides utility on top of Android's normal Log class.
 - [Activity Recognition][tools_activity_recognition]
+
+####Performance
 - [StrictMode][tools_strict_mode] a developer tool which detects things you might be doing by accident.
 - [Profile GPU Rendering][tools_profile_gpu_rendering] gives you a quick visual representation of how much time it takes to render the frames of a UI.
 - [Debug GPU overdraw][tools_debug_gpu_overdraw] shows you where your app might be doing more rendering work than necessary.
@@ -87,6 +90,7 @@ http://tools.android.com/tips/layout-designtime-attributes
 [podcast_androidbackstage]: <http://androidbackstage.blogspot.com/>
 [podcast_adroid_dialogs]: <https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed> 
 [tools_android_annotations]: <https://developer.android.com/studio/write/annotations.html>
+[tools_timber]:<https://github.com/JakeWharton/timber>
 [great_video_why_gradel]: <https://www.youtube.com/watch?v=LCJAgPkpmR0>
 [great_video_myth_busting_https]: <https://youtu.be/e6DUrH56g14>
 [great_videos_responsive_design]: <https://www.youtube.com/watch?v=zHirwKGEfoE>
