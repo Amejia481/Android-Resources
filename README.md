@@ -13,6 +13,7 @@ This a set of info that I have been compiling while I have been working on andro
 - [Android Annotations][tools_android_annotations]
 - [Timber][tools_timber] a small, extensible API which provides utility on top of Android's normal Log class.
 - [Activity Recognition][tools_activity_recognition]
+- [Vysor][tools_vysor] cast your devices screen into your desktop
 
 ####Performance
 - [StrictMode][tools_strict_mode] a developer tool which detects things you might be doing by accident.
@@ -66,6 +67,11 @@ records each memory allocation that your app performs during the profiling cycle
 
 - [Android Source Style][code_style_android_source_code_style]
 
+##Education
+
+####Advanced
+
+- [Caster IO][education_advanced_casterio] advanced android courses give for specialist. 
 
 ## Great articles.
 - [How often should you update android studio][youtube_gaming]
@@ -90,6 +96,7 @@ http://tools.android.com/tips/layout-designtime-attributes
 [podcast_androidbackstage]: <http://androidbackstage.blogspot.com/>
 [podcast_adroid_dialogs]: <https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed> 
 [tools_android_annotations]: <https://developer.android.com/studio/write/annotations.html>
+[tools_vysor]:<http://www.vysor.io/>
 [tools_timber]:<https://github.com/JakeWharton/timber>
 [great_video_why_gradel]: <https://www.youtube.com/watch?v=LCJAgPkpmR0>
 [great_video_myth_busting_https]: <https://youtu.be/e6DUrH56g14>
@@ -118,3 +125,4 @@ http://tools.android.com/tips/layout-designtime-attributes
 [tools_hierarchy_viewer]:<https://developer.android.com/studio/profile/hierarchy-viewer-walkthru.html>
 [tools_systrace]:<https://developer.android.com/studio/profile/systrace.html> 
 [tutorial_intro_lambdas]:<https://caster.io/episodes/java-8-lambdas-on-android-n/>
+[education_advanced_casterio]:<https://caster.io/>
