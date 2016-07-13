@@ -8,6 +8,8 @@ This a set of info that I have been compiling while I have been working on andro
 - [UI Designer & Constraint Layout] [Designer_constraint_layout] It may help to create your layout quickly and easily, just using drag and drop.
 - [Layout Inspector][android_studio_tools_layout_inspector] drill into the view hierarchy of your app and analyze the attributes of each UI component
 - [Espresso Test Recorder][android_studio_tools_espresso_test_recorder] record Espresso UI tests simply by using your app as a normal user.
+- [Diff Tool][tools_android_studio] use this tool from the command line and also with git.
+ 
 
 ##Tools 
 - [Android Annotations][tools_android_annotations]
@@ -37,6 +39,11 @@ records each memory allocation that your app performs during the profiling cycle
 
 ####Radio
 - [JobSchedular][tools_radio_jobschedular] or [GCMManager][tools_radio_gcmmanager] save a lot of juice to your app using batch calls
+
+####API
+- [PostMan][tools_api_postman] a great tool test your APIs
+
+
 
 ## Tutorials
  - [Intro Lambdas android][tutorial_intro_lambdas]
@@ -119,6 +126,7 @@ http://tools.android.com/tips/layout-designtime-attributes
 [tools_activity_recognition]: <https://developers.google.com/android/reference/com/google/android/gms/location/ActivityRecognitionApi#public-methods>
 [tools_memory_leakcanary]:<https://github.com/square/leakcanary>
 [tools_memory_allocation_tracker]:<https://developer.android.com/studio/profile/allocation-tracker-walkthru.html>
+[tools_api_postman]:<https://www.getpostman.com/> 
 [tools_strict_mode]:<https://developer.android.com/reference/android/os/StrictMode.html>
 [tools_profile_gpu_rendering]:<https://developer.android.com/studio/profile/dev-options-rendering.html>
 [tools_debug_gpu_overdraw]:<https://developer.android.com/studio/profile/dev-options-overdraw.html>
@@ -126,3 +134,4 @@ http://tools.android.com/tips/layout-designtime-attributes
 [tools_systrace]:<https://developer.android.com/studio/profile/systrace.html> 
 [tutorial_intro_lambdas]:<https://caster.io/episodes/java-8-lambdas-on-android-n/>
 [education_advanced_casterio]:<https://caster.io/>
+[tools_android_studio]:<https://youtu.be/hHnTIMjd1Y8?t=1m59s>
