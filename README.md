@@ -62,8 +62,9 @@ records each memory allocation that your app performs during the profiling cycle
 ## Youtube Channels 
 - [Square Engineering][youtube_channels_square_engineering]
 
-## Great Videos.
 
+## Great Videos.
+- [The expert's guide to Android development tools I/O 2016][great_videos_android_expert_guide] take an in-depth look into some of the advanced features of Android Studio.
 - [Why gradle][great_video_why_gradel]  Xavier Ducrohet describe Gradel Android build system at Google I/O 2013
 - [Android Design in Action Responsive Design][great_videos_responsive_design] various elements of Android Design.
 - [Android Design in Action playlist][great_videos_action_design_play_list] elements of Android Design.
@@ -110,6 +111,7 @@ http://tools.android.com/tips/layout-designtime-attributes
 [great_videos_responsive_design]: <https://www.youtube.com/watch?v=zHirwKGEfoE>
 [great_videos_action_design_play_list]: <https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF>
 [great_videos_experts_app_clinic]:<https://youtu.be/Fhj7IIsAgyE?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte>
+[great_videos_android_expert_guide]:<https://youtu.be/hHnTIMjd1Y8>
 [conferences_droidcon_berlin]: <https://www.youtube.com/channel/UCF4O2pQ8vBV8YmSAWb5QRPw>
 [conferences_droicon]: <https://www.youtube.com/user/droidcon>
 [conferences_droicon_montreal]: <https://www.youtube.com/channel/UCrOKtfBT1QMV1RY2MqARcUQ>
