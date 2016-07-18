@@ -9,7 +9,11 @@ This a set of info that I have been compiling while I have been working on andro
 - [Layout Inspector][android_studio_tools_layout_inspector] drill into the view hierarchy of your app and analyze the attributes of each UI component
 - [Espresso Test Recorder][android_studio_tools_espresso_test_recorder] record Espresso UI tests simply by using your app as a normal user.
 - [Diff Tool][tools_android_studio] use this tool from the command line and also with git.
+- [Structural Replace] [tools_android_studio_strutural_remplacement] search and replace  within files 
+- [Keyboard Shortcuts][tools_android_studio_shortcuts] Handy shortcuts for Android Studio
+- [Designtime Layout Attributes][tools_android_studio_designtime_attributes] attributes that are visible when the layout is rendered but not on runtime.
  
+
 
 ##Tools 
 - [Android Annotations][tools_android_annotations]
@@ -117,8 +121,11 @@ http://tools.android.com/tips/layout-designtime-attributes
 [conferences_droicon_montreal]: <https://www.youtube.com/channel/UCrOKtfBT1QMV1RY2MqARcUQ>
 [conferences_touchlab]: <https://www.youtube.com/channel/UC_LIW0OUdsRI21D0xnWkexw>
 [android_studio_tools_layout_inspector]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=1734>
+[tools_android_studio_designtime_attributes]:<https://youtu.be/Y2GC6P5hPeA?t=604>
 [youtube_channels_square_engineering]: <https://www.youtube.com/user/SquareEngineering>
 [android_studio_tools_espresso_test_recorder]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=2490>
+[tools_android_studio_shortcuts]:<https://developer.android.com/studio/intro/keyboard-shortcuts.html>
+[tools_android_studio_strutural_remplacement]:<https://youtu.be/Y2GC6P5hPeA?t=390>
 [code_style_android_source_code_style]: <http://source.android.com/source/code-style.html>
 [tools_connectivity_charles_proxy]: <https://www.charlesproxy.com/>
 [tools_connectivity_stetho]: <http://facebook.github.io/stetho/>
