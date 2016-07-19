@@ -12,6 +12,7 @@ This a set of info that I have been compiling while I have been working on andro
 - [Structural Replace] [tools_android_studio_strutural_remplacement] search and replace  within files 
 - [Keyboard Shortcuts][tools_android_studio_shortcuts] Handy shortcuts for Android Studio
 - [Designtime Layout Attributes][tools_android_studio_designtime_attributes] attributes that are visible when the layout is rendered but not on runtime.
+- [Local History][tools_android_studio_local_history] see every change that you have made on a file even without installing VCS 
  
 
 
@@ -50,6 +51,7 @@ records each memory allocation that your app performs during the profiling cycle
 
 
 ## Tutorials
+ - [Android Codelab][tutorials_android_codelab]
  - [Intro Lambdas android][tutorial_intro_lambdas]
  
 ## Podcast
@@ -121,6 +123,7 @@ http://tools.android.com/tips/layout-designtime-attributes
 [conferences_droicon_montreal]: <https://www.youtube.com/channel/UCrOKtfBT1QMV1RY2MqARcUQ>
 [conferences_touchlab]: <https://www.youtube.com/channel/UC_LIW0OUdsRI21D0xnWkexw>
 [android_studio_tools_layout_inspector]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=1734>
+[tools_android_studio_local_history]:<https://youtu.be/hHnTIMjd1Y8?t=865>
 [tools_android_studio_designtime_attributes]:<https://youtu.be/Y2GC6P5hPeA?t=604>
 [youtube_channels_square_engineering]: <https://www.youtube.com/user/SquareEngineering>
 [android_studio_tools_espresso_test_recorder]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=2490>
@@ -141,6 +144,7 @@ http://tools.android.com/tips/layout-designtime-attributes
 [tools_debug_gpu_overdraw]:<https://developer.android.com/studio/profile/dev-options-overdraw.html>
 [tools_hierarchy_viewer]:<https://developer.android.com/studio/profile/hierarchy-viewer-walkthru.html>
 [tools_systrace]:<https://developer.android.com/studio/profile/systrace.html> 
+[tutorials_android_codelab]:<https://codelabs.developers.google.com/?cat=Android>
 [tutorial_intro_lambdas]:<https://caster.io/episodes/java-8-lambdas-on-android-n/>
 [education_advanced_casterio]:<https://caster.io/>
 [tools_android_studio]:<https://youtu.be/hHnTIMjd1Y8?t=1m59s>
