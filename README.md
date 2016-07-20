@@ -13,8 +13,9 @@ This a set of info that I have been compiling while I have been working on andro
 - [Keyboard Shortcuts][tools_android_studio_shortcuts] Handy shortcuts for Android Studio
 - [Designtime Layout Attributes][tools_android_studio_designtime_attributes] attributes that are visible when the layout is rendered but not on runtime.
 - [Local History][tools_android_studio_local_history] see every change that you have made on a file even without installing VCS 
- 
 
+##Android Architecture
+- [Android Architecture Blueprints][android_architecture]
 
 ##Tools 
 - [Android Annotations][tools_android_annotations]
@@ -90,15 +91,10 @@ records each memory allocation that your app performs during the profiling cycle
 ## Great articles.
 - [How often should you update android studio][youtube_gaming]
 
-## Video demo of your app.
+##Misc
+- [Open Source Android Apps][misc_android_app_set] collection of Android Apps which are open source
+- [Youtube gaming][youtube_gaming] create a video demo for your app.
 
-In case my particular case each time that I upload an app to the Play Store, I use to add a video demo to it, I think many of you do the same.  I find [Youtube gaming][youtube_gaming] an excellent app for this purpose. It was created basically for streaming and recording games, but you can use it ,for
-creating your video demo of you app.
-
-##Designtime Layout Attributes
-  An excellent way to keep your text values in Design time but remove in runtime.
-
-http://tools.android.com/tips/layout-designtime-attributes
 
 
 [youtube_gaming]: <https://medium.com/google-developers/how-often-should-you-update-android-studio-db25785c488e#.9dgn55z6k>
@@ -148,3 +144,5 @@ http://tools.android.com/tips/layout-designtime-attributes
 [tutorial_intro_lambdas]:<https://caster.io/episodes/java-8-lambdas-on-android-n/>
 [education_advanced_casterio]:<https://caster.io/>
 [tools_android_studio]:<https://youtu.be/hHnTIMjd1Y8?t=1m59s>
+[android_architecture]:<https://github.com/googlesamples/android-architecture>
+[misc_android_app_set]:<https://github.com/pcqpcq/open-source-android-apps>
