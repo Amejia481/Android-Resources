@@ -50,6 +50,10 @@ records each memory allocation that your app performs during the profiling cycle
 - [PostMan][tools_api_postman] a great tool test your APIs
 
 
+## News
+ - [Android Dev Official Blog][news_android_official_blog] all the announcement related to Android are posted here
+ - [Android Dev Digest][news_android_dev_digest] a Handcrafted Weekly #AndroidDev Newsletter
+
 
 ## Tutorials
  - [Android Codelab][tutorials_android_codelab]
@@ -146,3 +150,5 @@ records each memory allocation that your app performs during the profiling cycle
 [tools_android_studio]:<https://youtu.be/hHnTIMjd1Y8?t=1m59s>
 [android_architecture]:<https://github.com/googlesamples/android-architecture>
 [misc_android_app_set]:<https://github.com/pcqpcq/open-source-android-apps>
+[news_android_dev_digest]:<https://www.androiddevdigest.com/>
+[news_android_official_blog]:<http://android-developers.blogspot.com/>
