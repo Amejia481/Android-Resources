@@ -99,7 +99,10 @@ records each memory allocation that your app performs during the profiling cycle
 - [Open Source Android Apps][misc_android_app_set] collection of Android Apps which are open source
 - [Youtube gaming][youtube_gaming] create a video demo for your app.
 
-
+##Android Communities Google+
+- [Android Development][android_communities_google_plus]
+- [Android Studios][android_communities_google_plus_androd_studio]
+- [Android Developers Tools][android_communities_google_tools]
 
 [youtube_gaming]: <https://medium.com/google-developers/how-often-should-you-update-android-studio-db25785c488e#.9dgn55z6k>
 [article]: <https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.gaming>
@@ -152,3 +155,6 @@ records each memory allocation that your app performs during the profiling cycle
 [misc_android_app_set]:<https://github.com/pcqpcq/open-source-android-apps>
 [news_android_dev_digest]:<https://www.androiddevdigest.com/>
 [news_android_official_blog]:<http://android-developers.blogspot.com/>
+[android_communities_google_plus]:<https://plus.google.com/communities/105153134372062985968>
+[android_communities_google_plus_androd_studio]:<https://plus.google.com/communities/103491657963571270604>
+[android_communities_google_tools]:<https://plus.google.com/communities/114791428968349268860>
