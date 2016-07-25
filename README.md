@@ -64,6 +64,9 @@ records each memory allocation that your app performs during the profiling cycle
 - [androidbackstage] [podcast_androidbackstage]
 - [Android Dialogs] [podcast_adroid_dialogs]
 
+## Great Podcast shows
+- [045: Bluetooth (LE) with Dave (devunwired) Smith][great_podcast_fragmented_45]
+
 ## Conferences
 - [Droidcon][conferences_droicon]
 - [Droidcon Berlin][conferences_droidcon_berlin] 
@@ -158,3 +161,4 @@ records each memory allocation that your app performs during the profiling cycle
 [android_communities_google_plus]:<https://plus.google.com/communities/105153134372062985968>
 [android_communities_google_plus_androd_studio]:<https://plus.google.com/communities/103491657963571270604>
 [android_communities_google_tools]:<https://plus.google.com/communities/114791428968349268860>
+[great_podcast_fragmented_45]:<http://fragmentedpodcast.com/episodes/45/>
