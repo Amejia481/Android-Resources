@@ -84,6 +84,7 @@ records each memory allocation that your app performs during the profiling cycle
 - [Android Design in Action playlist][great_videos_action_design_play_list] elements of Android Design.
 - [Myths Busting HTTPS][great_video_myth_busting_https] some common myths and fears about HTTPS
 - [Experts App Clinic][great_videos_experts_app_clinic] best practices when building apps for billions - Google I/O 2016
+- [Improve your builds speed][great_videos_improve_your_build_speed]
 
 ## Code Style
 
@@ -124,6 +125,7 @@ records each memory allocation that your app performs during the profiling cycle
 [great_videos_action_design_play_list]: <https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF>
 [great_videos_experts_app_clinic]:<https://youtu.be/Fhj7IIsAgyE?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte>
 [great_videos_android_expert_guide]:<https://youtu.be/hHnTIMjd1Y8>
+[great_videos_improve_your_build_speed]:<https://youtu.be/hHnTIMjd1Y8?t=2140>
 [conferences_droidcon_berlin]: <https://www.youtube.com/channel/UCF4O2pQ8vBV8YmSAWb5QRPw>
 [conferences_droicon]: <https://www.youtube.com/user/droidcon>
 [conferences_droicon_montreal]: <https://www.youtube.com/channel/UCrOKtfBT1QMV1RY2MqARcUQ>
@@ -162,3 +164,4 @@ records each memory allocation that your app performs during the profiling cycle
 [android_communities_google_plus_androd_studio]:<https://plus.google.com/communities/103491657963571270604>
 [android_communities_google_tools]:<https://plus.google.com/communities/114791428968349268860>
 [great_podcast_fragmented_45]:<http://fragmentedpodcast.com/episodes/45/>
+
