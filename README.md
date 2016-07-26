@@ -103,6 +103,11 @@ records each memory allocation that your app performs during the profiling cycle
 - [Open Source Android Apps][misc_android_app_set] collection of Android Apps which are open source
 - [Youtube gaming][youtube_gaming] create a video demo for your app.
 
+##Libs 
+
+### Reactive Programming
+ - [Agera][reactive_programming_agera]
+
 ##Android Communities Google+
 - [Android Development][android_communities_google_plus]
 - [Android Studios][android_communities_google_plus_androd_studio]
@@ -164,4 +169,4 @@ records each memory allocation that your app performs during the profiling cycle
 [android_communities_google_plus_androd_studio]:<https://plus.google.com/communities/103491657963571270604>
 [android_communities_google_tools]:<https://plus.google.com/communities/114791428968349268860>
 [great_podcast_fragmented_45]:<http://fragmentedpodcast.com/episodes/45/>
-
+[reactive_programming_agera]:<https://github.com/google/agera>
