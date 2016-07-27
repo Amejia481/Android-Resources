@@ -104,6 +104,9 @@ records each memory allocation that your app performs during the profiling cycle
 - [Youtube gaming][youtube_gaming] create a video demo for your app.
 
 ##Libs 
+### Image
+- [Glide][libs_glide] an image loading and caching library
+- [Picasso][libs_picasso] allows for hassle-free image loading in your applicatio
 
 ### Reactive Programming
  - [Agera][reactive_programming_agera]
@@ -170,3 +173,5 @@ records each memory allocation that your app performs during the profiling cycle
 [android_communities_google_tools]:<https://plus.google.com/communities/114791428968349268860>
 [great_podcast_fragmented_45]:<http://fragmentedpodcast.com/episodes/45/>
 [reactive_programming_agera]:<https://github.com/google/agera>
+[libs_glide]:<https://github.com/bumptech/glide>
+[libs_picasso]:<http://square.github.io/picasso/>
