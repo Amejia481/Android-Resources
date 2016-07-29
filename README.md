@@ -102,6 +102,7 @@ records each memory allocation that your app performs during the profiling cycle
 ##Misc
 - [Open Source Android Apps][misc_android_app_set] collection of Android Apps which are open source
 - [Youtube gaming][youtube_gaming] create a video demo for your app.
+- [Percent Support Library][misc_percent_support_library]
 
 ##Libs 
 ### Image
@@ -166,6 +167,7 @@ records each memory allocation that your app performs during the profiling cycle
 [tools_android_studio]:<https://youtu.be/hHnTIMjd1Y8?t=1m59s>
 [android_architecture]:<https://github.com/googlesamples/android-architecture>
 [misc_android_app_set]:<https://github.com/pcqpcq/open-source-android-apps>
+[misc_percent_support_library]:<https://developer.android.com/topic/libraries/support-library/features.html#percent>
 [news_android_dev_digest]:<https://www.androiddevdigest.com/>
 [news_android_official_blog]:<http://android-developers.blogspot.com/>
 [android_communities_google_plus]:<https://plus.google.com/communities/105153134372062985968>
@@ -175,3 +177,4 @@ records each memory allocation that your app performs during the profiling cycle
 [reactive_programming_agera]:<https://github.com/google/agera>
 [libs_glide]:<https://github.com/bumptech/glide>
 [libs_picasso]:<http://square.github.io/picasso/>
+
