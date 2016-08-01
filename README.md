@@ -63,6 +63,9 @@ records each memory allocation that your app performs during the profiling cycle
 - [fragmentedpodcast] [podcast_fragmented]
 - [androidbackstage] [podcast_androidbackstage]
 - [Android Dialogs] [podcast_adroid_dialogs]
+- [Android Intelligence][podcast_android_intelligence]
+
+
 
 ## Great Podcast shows
 - [045: Bluetooth (LE) with Dave (devunwired) Smith][great_podcast_fragmented_45]
@@ -125,6 +128,7 @@ records each memory allocation that your app performs during the profiling cycle
 [podcast_fragmented]: <http://fragmentedpodcast.com/>
 [podcast_androidbackstage]: <http://androidbackstage.blogspot.com/>
 [podcast_adroid_dialogs]: <https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed> 
+[podcast_android_intelligence]:<https://plus.google.com/collection/ATg6b>
 [tools_android_annotations]: <https://developer.android.com/studio/write/annotations.html>
 [tools_vysor]:<http://www.vysor.io/>
 [tools_timber]:<https://github.com/JakeWharton/timber>
