@@ -19,6 +19,7 @@ This a set of info that I have been compiling while I have been working on andro
 
 ##Tools 
 - [Android Annotations][tools_android_annotations]
+- [Custom Tabs][tools_custom_tabs]
 - [Timber][tools_timber] a small, extensible API which provides utility on top of Android's normal Log class.
 - [Activity Recognition][tools_activity_recognition]
 - [Vysor][tools_vysor] cast your devices screen into your desktop
@@ -64,11 +65,12 @@ records each memory allocation that your app performs during the profiling cycle
 - [androidbackstage] [podcast_androidbackstage]
 - [Android Dialogs] [podcast_adroid_dialogs]
 - [Android Intelligence][podcast_android_intelligence]
-
+- [The Context][podcast_android_the_context]
 
 
 ## Great Podcast shows
-- [045: Bluetooth (LE) with Dave (devunwired) Smith][great_podcast_fragmented_45]
+- [Fragmented 045: Bluetooth (LE) with Dave (devunwired) Smith][great_podcast_fragmented_45]
+- [ADB 37: WebView ][great_podcast_adb_webview]
 
 ## Conferences
 - [Droidcon][conferences_droicon]
@@ -120,6 +122,10 @@ records each memory allocation that your app performs during the profiling cycle
 - [Android Studios][android_communities_google_plus_androd_studio]
 - [Android Developers Tools][android_communities_google_tools]
 
+##Cool Repos
+- [Android Universal Music Player][cool_repo_android_universal_music_repo] sample shows how to implement an audio media app that works across multiple form
+
+
 [youtube_gaming]: <https://medium.com/google-developers/how-often-should-you-update-android-studio-db25785c488e#.9dgn55z6k>
 [article]: <https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.gaming>
 [android_studio_apk_analyzer]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=333>
@@ -129,7 +135,9 @@ records each memory allocation that your app performs during the profiling cycle
 [podcast_androidbackstage]: <http://androidbackstage.blogspot.com/>
 [podcast_adroid_dialogs]: <https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed> 
 [podcast_android_intelligence]:<https://plus.google.com/collection/ATg6b>
+[podcast_android_the_context]:<https://github.com/artem-zinnatullin/TheContext-Podcast>
 [tools_android_annotations]: <https://developer.android.com/studio/write/annotations.html>
+[tools_custom_tabs]:<https://developer.chrome.com/multidevice/android/customtabs>
 [tools_vysor]:<http://www.vysor.io/>
 [tools_timber]:<https://github.com/JakeWharton/timber>
 [great_video_why_gradel]: <https://www.youtube.com/watch?v=LCJAgPkpmR0>
@@ -178,7 +186,8 @@ records each memory allocation that your app performs during the profiling cycle
 [android_communities_google_plus_androd_studio]:<https://plus.google.com/communities/103491657963571270604>
 [android_communities_google_tools]:<https://plus.google.com/communities/114791428968349268860>
 [great_podcast_fragmented_45]:<http://fragmentedpodcast.com/episodes/45/>
+[great_podcast_adb_webview]:<http://androidbackstage.blogspot.com/2015/11/episode-37-webview.html>
 [reactive_programming_agera]:<https://github.com/google/agera>
 [libs_glide]:<https://github.com/bumptech/glide>
 [libs_picasso]:<http://square.github.io/picasso/>
-
+[cool_repo_android_universal_music_repo]:<https://github.com/googlesamples/android-UniversalMusicPlayer>
