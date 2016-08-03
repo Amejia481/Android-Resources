@@ -39,6 +39,7 @@ records each memory allocation that your app performs during the profiling cycle
 
 ####Connectivity
 - [Charles Proxy][tools_connectivity_charles_proxy]  limit the bandwidth of your internet connection.
+- [Fiddler][tools_connectivity_fiddler] debugging proxy for any browser, system or platform.
 - [Stetho][tools_connectivity_stetho] give you access to chrome devTools, network and database inspection of your app.
 
 ####Battery
@@ -90,6 +91,7 @@ records each memory allocation that your app performs during the profiling cycle
 - [Myths Busting HTTPS][great_video_myth_busting_https] some common myths and fears about HTTPS
 - [Experts App Clinic][great_videos_experts_app_clinic] best practices when building apps for billions - Google I/O 2016
 - [Improve your builds speed][great_videos_improve_your_build_speed]
+- [Caster.io Lesson 25: Android From the Trenches][great_videos]
 
 ## Code Style
 
@@ -147,6 +149,7 @@ records each memory allocation that your app performs during the profiling cycle
 [great_videos_experts_app_clinic]:<https://youtu.be/Fhj7IIsAgyE?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte>
 [great_videos_android_expert_guide]:<https://youtu.be/hHnTIMjd1Y8>
 [great_videos_improve_your_build_speed]:<https://youtu.be/hHnTIMjd1Y8?t=2140>
+[great_videos]:<https://caster.io/episodes/android-from-the-trenches/>
 [conferences_droidcon_berlin]: <https://www.youtube.com/channel/UCF4O2pQ8vBV8YmSAWb5QRPw>
 [conferences_droicon]: <https://www.youtube.com/user/droidcon>
 [conferences_droicon_montreal]: <https://www.youtube.com/channel/UCrOKtfBT1QMV1RY2MqARcUQ>
@@ -160,6 +163,7 @@ records each memory allocation that your app performs during the profiling cycle
 [tools_android_studio_strutural_remplacement]:<https://youtu.be/Y2GC6P5hPeA?t=390>
 [code_style_android_source_code_style]: <http://source.android.com/source/code-style.html>
 [tools_connectivity_charles_proxy]: <https://www.charlesproxy.com/>
+[tools_connectivity_fiddler]:<http://www.telerik.com/fiddler>
 [tools_connectivity_stetho]: <http://facebook.github.io/stetho/>
 [tools_battery_battery_historian]: <https://github.com/google/battery-historian>
 [tools_radio_jobschedular]:<https://developer.android.com/reference/android/app/job/JobScheduler.html>
