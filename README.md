@@ -83,7 +83,7 @@ records each memory allocation that your app performs during the profiling cycle
 - [Square Engineering][youtube_channels_square_engineering]
 
 
-## Great Videos.
+## Great Talks.
 - [The expert's guide to Android development tools I/O 2016][great_videos_android_expert_guide] take an in-depth look into some of the advanced features of Android Studio.
 - [Why gradle][great_video_why_gradel]  Xavier Ducrohet describe Gradel Android build system at Google I/O 2013
 - [Android Design in Action Responsive Design][great_videos_responsive_design] various elements of Android Design.
@@ -92,6 +92,7 @@ records each memory allocation that your app performs during the profiling cycle
 - [Experts App Clinic][great_videos_experts_app_clinic] best practices when building apps for billions - Google I/O 2016
 - [Improve your builds speed][great_videos_improve_your_build_speed]
 - [Caster.io Lesson 25: Android From the Trenches][great_videos]
+- [Kotlin: A New Hope in a Java 6 Wasteland][grat_videos_droidcon-michael-pardo-kotlin]
 
 ## Code Style
 
@@ -112,17 +113,35 @@ records each memory allocation that your app performs during the profiling cycle
 - [Percent Support Library][misc_percent_support_library]
 
 ##Libs 
-### Image
+- [Moshi][libs_moshi] a modern JSON library for Android and Java.
+- [OkHttp][libs_okhttp] an HTTP+HTTP/2 client for Android and Java applications.
+- [Retrofit][libs_retrofit] type-safe HTTP client for Android and Java by Square, Inc.
+
+### Databases
+- [Sqlbrite][libs_databases_sqlbrite] a lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations.
+
+### Dependency Injection
+- [Dagger][libs_dependency_injection_dagger]
+
+### Images
 - [Glide][libs_glide] an image loading and caching library
-- [Picasso][libs_picasso] allows for hassle-free image loading in your applicatio
+- [Picasso][libs_picasso] allows for hassle-free image loading in your application.
+- [Thumbor][libs_image_thumbor] is a smart imaging service. It enables on-demand crop, resizing and flipping of images.
+- [Pollexor][libs_image_pollexor] Java client for the Thumbor image service.
+
 
 ### Reactive Programming
  - [Agera][reactive_programming_agera]
+
+###Widget
+- [TimesSquare for Android][libs_widget_timessquare]
+
 
 ##Android Communities Google+
 - [Android Development][android_communities_google_plus]
 - [Android Studios][android_communities_google_plus_androd_studio]
 - [Android Developers Tools][android_communities_google_tools]
+
 
 ##Cool Repos
 - [Android Universal Music Player][cool_repo_android_universal_music_repo] sample shows how to implement an audio media app that works across multiple form
@@ -149,6 +168,7 @@ records each memory allocation that your app performs during the profiling cycle
 [great_videos_experts_app_clinic]:<https://youtu.be/Fhj7IIsAgyE?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte>
 [great_videos_android_expert_guide]:<https://youtu.be/hHnTIMjd1Y8>
 [great_videos_improve_your_build_speed]:<https://youtu.be/hHnTIMjd1Y8?t=2140>
+[grat_videos_droidcon-michael-pardo-kotlin]:<https://realm.io/news/droidcon-michael-pardo-kotlin/>
 [great_videos]:<https://caster.io/episodes/android-from-the-trenches/>
 [conferences_droidcon_berlin]: <https://www.youtube.com/channel/UCF4O2pQ8vBV8YmSAWb5QRPw>
 [conferences_droicon]: <https://www.youtube.com/user/droidcon>
@@ -194,4 +214,12 @@ records each memory allocation that your app performs during the profiling cycle
 [reactive_programming_agera]:<https://github.com/google/agera>
 [libs_glide]:<https://github.com/bumptech/glide>
 [libs_picasso]:<http://square.github.io/picasso/>
+[libs_dependency_injection_dagger]:<http://square.github.io/dagger/>
+[libs_image_thumbor]:<https://github.com/thumbor/thumbor/>
+[libs_image_pollexor]:<https://github.com/square/pollexor>
+[libs_moshi]:<https://github.com/square/moshi>
+[libs_widget_timessquare]:<https://github.com/square/android-times-square>
+[libs_okhttp]:<https://github.com/square/okhttp>
+[libs_retrofit]:<https://github.com/square/retrofit>
+[libs_databases_sqlbrite]:<https://github.com/square/sqlbrite>
 [cool_repo_android_universal_music_repo]:<https://github.com/googlesamples/android-UniversalMusicPlayer>
