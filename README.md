@@ -19,7 +19,9 @@ This a set of info that I have been compiling while I have been working on andro
 
 ##Tools 
 - [Android Annotations][tools_android_annotations]
+- [Shrink Your Code and Resources][tools_shrink_code]
 - [Custom Tabs][tools_custom_tabs]
+- [Material icons][tools_material_icons]
 - [Timber][tools_timber] a small, extensible API which provides utility on top of Android's normal Log class.
 - [Activity Recognition][tools_activity_recognition]
 - [Vysor][tools_vysor] cast your devices screen into your desktop
@@ -159,8 +161,10 @@ records each memory allocation that your app performs during the profiling cycle
 [podcast_android_the_context]:<https://github.com/artem-zinnatullin/TheContext-Podcast>
 [tools_android_annotations]: <https://developer.android.com/studio/write/annotations.html>
 [tools_custom_tabs]:<https://developer.chrome.com/multidevice/android/customtabs>
+[tools_shrink_code]:<https://developer.android.com/studio/build/shrink-code.html>
 [tools_vysor]:<http://www.vysor.io/>
 [tools_timber]:<https://github.com/JakeWharton/timber>
+[tools_material_icons]:<https://design.google.com/icons/>
 [great_video_why_gradel]: <https://www.youtube.com/watch?v=LCJAgPkpmR0>
 [great_video_myth_busting_https]: <https://youtu.be/e6DUrH56g14>
 [great_videos_responsive_design]: <https://www.youtube.com/watch?v=zHirwKGEfoE>
