@@ -145,6 +145,9 @@ records each memory allocation that your app performs during the profiling cycle
 - [Android Studios][android_communities_google_plus_androd_studio]
 - [Android Developers Tools][android_communities_google_tools]
 
+##Design
+- [Material Components][design_material_components]
+- [Patterns][design_patterns]
 
 ##Cool Repos
 - [Android Universal Music Player][cool_repo_android_universal_music_repo] sample shows how to implement an audio media app that works across multiple form
@@ -229,3 +232,5 @@ records each memory allocation that your app performs during the profiling cycle
 [libs_retrofit]:<https://github.com/square/retrofit>
 [libs_databases_sqlbrite]:<https://github.com/square/sqlbrite>
 [cool_repo_android_universal_music_repo]:<https://github.com/googlesamples/android-UniversalMusicPlayer>
+[design_material_components]:<https://material.google.com/components/bottom-navigation.html>
+[design_patterns]:<https://material.google.com/patterns/>
