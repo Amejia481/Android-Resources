@@ -95,6 +95,7 @@ records each memory allocation that your app performs during the profiling cycle
 - [Improve your builds speed][great_videos_improve_your_build_speed]
 - [Caster.io Lesson 25: Android From the Trenches][great_videos]
 - [Kotlin: A New Hope in a Java 6 Wasteland][grat_videos_droidcon-michael-pardo-kotlin]
+- [Retrofit 2][great_videos_retrofit2] retrofit has been simplifying HTTP calls for years, and this v2.0 is no different.
 
 ## Code Style
 
@@ -173,6 +174,7 @@ records each memory allocation that your app performs during the profiling cycle
 [great_videos_android_expert_guide]:<https://youtu.be/hHnTIMjd1Y8>
 [great_videos_improve_your_build_speed]:<https://youtu.be/hHnTIMjd1Y8?t=2140>
 [grat_videos_droidcon-michael-pardo-kotlin]:<https://realm.io/news/droidcon-michael-pardo-kotlin/>
+[great_videos_retrofit2]:<https://realm.io/news/droidcon-jake-wharton-simple-http-retrofit-2/>
 [great_videos]:<https://caster.io/episodes/android-from-the-trenches/>
 [conferences_droidcon_berlin]: <https://www.youtube.com/channel/UCF4O2pQ8vBV8YmSAWb5QRPw>
 [conferences_droicon]: <https://www.youtube.com/user/droidcon>
