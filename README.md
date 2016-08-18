@@ -74,6 +74,7 @@ records each memory allocation that your app performs during the profiling cycle
 ## Great Podcast shows
 - [Fragmented 045: Bluetooth (LE) with Dave (devunwired) Smith][great_podcast_fragmented_45]
 - [ADB 37: WebView ][great_podcast_adb_webview]
+- [Fragmented 049: Translating an app][gread_podcast_translating]
 
 ## Conferences
 - [Droidcon][conferences_droicon]
@@ -96,6 +97,7 @@ records each memory allocation that your app performs during the profiling cycle
 - [Caster.io Lesson 25: Android From the Trenches][great_videos]
 - [Kotlin: A New Hope in a Java 6 Wasteland][grat_videos_droidcon-michael-pardo-kotlin]
 - [Retrofit 2][great_videos_retrofit2] retrofit has been simplifying HTTP calls for years, and this v2.0 is no different.
+- [A Crash Course in Open Source Licensing][great_talk_licensing]
 
 ## Code Style
 
@@ -152,14 +154,15 @@ records each memory allocation that your app performs during the profiling cycle
 ##Cool Repos
 - [Android Universal Music Player][cool_repo_android_universal_music_repo] sample shows how to implement an audio media app that works across multiple form
 
-
+[great_podcast_fragmented_translating]:<http://fragmentedpodcast.com/episodes/049/>
 [youtube_gaming]: <https://medium.com/google-developers/how-often-should-you-update-android-studio-db25785c488e#.9dgn55z6k>
 [article]: <https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.gaming>
 [android_studio_apk_analyzer]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=333>
-[manifest_viewer]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=429>
+[manifest_viewer]:<https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=429>
 [Designer_constraint_layout]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=1558>
 [podcast_fragmented]: <http://fragmentedpodcast.com/>
 [podcast_androidbackstage]: <http://androidbackstage.blogspot.com/>
+[gread_podcast_translating]:<http://fragmentedpodcast.com/episodes/049/>
 [podcast_adroid_dialogs]: <https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed> 
 [podcast_android_intelligence]:<https://plus.google.com/collection/ATg6b>
 [podcast_android_the_context]:<https://github.com/artem-zinnatullin/TheContext-Podcast>
@@ -177,6 +180,7 @@ records each memory allocation that your app performs during the profiling cycle
 [great_videos_android_expert_guide]:<https://youtu.be/hHnTIMjd1Y8>
 [great_videos_improve_your_build_speed]:<https://youtu.be/hHnTIMjd1Y8?t=2140>
 [grat_videos_droidcon-michael-pardo-kotlin]:<https://realm.io/news/droidcon-michael-pardo-kotlin/>
+[great_talk_licensing]:<https://www.youtube.com/watch?v=cJIi-hIlCQM>
 [great_videos_retrofit2]:<https://realm.io/news/droidcon-jake-wharton-simple-http-retrofit-2/>
 [great_videos]:<https://caster.io/episodes/android-from-the-trenches/>
 [conferences_droidcon_berlin]: <https://www.youtube.com/channel/UCF4O2pQ8vBV8YmSAWb5QRPw>
