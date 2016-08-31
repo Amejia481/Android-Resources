@@ -84,7 +84,10 @@ records each memory allocation that your app performs during the profiling cycle
 
 ## Youtube Channels 
 - [Square Engineering][youtube_channels_square_engineering]
+- [Android Developers][youtube_channels_android_developers]
 
+### Great Playlists
+- [Big Android BBQ 2015][great_playlist_bb2015]
 
 ## Great Talks.
 - [The expert's guide to Android development tools I/O 2016][great_videos_android_expert_guide] take an in-depth look into some of the advanced features of Android Studio.
@@ -191,6 +194,7 @@ records each memory allocation that your app performs during the profiling cycle
 [tools_android_studio_local_history]:<https://youtu.be/hHnTIMjd1Y8?t=865>
 [tools_android_studio_designtime_attributes]:<https://youtu.be/Y2GC6P5hPeA?t=604>
 [youtube_channels_square_engineering]: <https://www.youtube.com/user/SquareEngineering>
+[youtube_channels_android_developers]:<https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg>
 [android_studio_tools_espresso_test_recorder]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=2490>
 [tools_android_studio_shortcuts]:<https://developer.android.com/studio/intro/keyboard-shortcuts.html>
 [tools_android_studio_strutural_remplacement]:<https://youtu.be/Y2GC6P5hPeA?t=390>
@@ -238,3 +242,4 @@ records each memory allocation that your app performs during the profiling cycle
 [cool_repo_android_universal_music_repo]:<https://github.com/googlesamples/android-UniversalMusicPlayer>
 [design_material_components]:<https://material.google.com/components/bottom-navigation.html>
 [design_patterns]:<https://material.google.com/patterns/>
+[great_playlist_bb2015]:<https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_HyE1QX9heAgTPdAMqc50z>
