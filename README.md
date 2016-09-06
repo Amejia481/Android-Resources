@@ -2,6 +2,12 @@
 
 This a set of info that I have been compiling while I have been working on android.
 
+## Important Links
+- [Android Training][important_links_Android_training] oficial step by step training how to use Android.
+- [Android API guide][important_links_android_guide] oficial step by step guide of Android API.
+- [Android Studio Project Site][important_links_tools_android] here you can find all info relate to android development tools
+
+
 ##Android Studio Tools
 - [APK Analyzer][android_studio_apk_analyzer]  give a X-ray look to your APK.
 - [Merged Manifest Viewer] [manifest_viewer] a clear view of your Manifest file of all the stuff that you didn't add there.
@@ -243,3 +249,6 @@ records each memory allocation that your app performs during the profiling cycle
 [design_material_components]:<https://material.google.com/components/bottom-navigation.html>
 [design_patterns]:<https://material.google.com/patterns/>
 [great_playlist_bb2015]:<https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_HyE1QX9heAgTPdAMqc50z>
+[important_links_tools_android]:<http://tools.android.com/>
+[important_links_android_guide]:<https://developer.android.com/guide/index.html>
+[important_links_Android_training]:<https://developer.android.com/training/index.html>
