@@ -107,6 +107,7 @@ records each memory allocation that your app performs during the profiling cycle
 - [Kotlin: A New Hope in a Java 6 Wasteland][grat_videos_droidcon-michael-pardo-kotlin]
 - [Retrofit 2][great_videos_retrofit2] retrofit has been simplifying HTTP calls for years, and this v2.0 is no different.
 - [A Crash Course in Open Source Licensing][great_talk_licensing]
+- [App Standby vs Doze: Understanding System Sleep][great_talk_doze_bbq2015] crash course on Doze mode
 
 ## Code Style
 
@@ -191,6 +192,7 @@ records each memory allocation that your app performs during the profiling cycle
 [grat_videos_droidcon-michael-pardo-kotlin]:<https://realm.io/news/droidcon-michael-pardo-kotlin/>
 [great_talk_licensing]:<https://www.youtube.com/watch?v=cJIi-hIlCQM>
 [great_videos_retrofit2]:<https://realm.io/news/droidcon-jake-wharton-simple-http-retrofit-2/>
+[great_talk_doze_bbq2015]:<https://www.youtube.com/watch?v=Rwshwq_vI1s&index=26&list=PLWz5rJ2EKKc_HyE1QX9heAgTPdAMqc50z>
 [great_videos]:<https://caster.io/episodes/android-from-the-trenches/>
 [conferences_droidcon_berlin]: <https://www.youtube.com/channel/UCF4O2pQ8vBV8YmSAWb5QRPw>
 [conferences_droicon]: <https://www.youtube.com/user/droidcon>
