@@ -108,6 +108,8 @@ records each memory allocation that your app performs during the profiling cycle
 - [Retrofit 2][great_videos_retrofit2] retrofit has been simplifying HTTP calls for years, and this v2.0 is no different.
 - [A Crash Course in Open Source Licensing][great_talk_licensing]
 - [App Standby vs Doze: Understanding System Sleep][great_talk_doze_bbq2015] crash course on Doze mode
+- [Location, and Context, and Speed -- Oh My! (Big Android BBQ 2015)][great_videos_bbq2015_Location_context]
+- [Enable Android Studio's "Dex In Process" for Faster App Builds][great_videos_faster_build]
 
 ## Code Style
 
@@ -190,9 +192,11 @@ records each memory allocation that your app performs during the profiling cycle
 [great_videos_android_expert_guide]:<https://youtu.be/hHnTIMjd1Y8>
 [great_videos_improve_your_build_speed]:<https://youtu.be/hHnTIMjd1Y8?t=2140>
 [grat_videos_droidcon-michael-pardo-kotlin]:<https://realm.io/news/droidcon-michael-pardo-kotlin/>
+[great_videos_bbq2015_Location_context]:<https://www.youtube.com/watch?v=MPtH_fENuSI&index=25&list=PLWz5rJ2EKKc_HyE1QX9heAgTPdAMqc50z>
 [great_talk_licensing]:<https://www.youtube.com/watch?v=cJIi-hIlCQM>
 [great_videos_retrofit2]:<https://realm.io/news/droidcon-jake-wharton-simple-http-retrofit-2/>
 [great_talk_doze_bbq2015]:<https://www.youtube.com/watch?v=Rwshwq_vI1s&index=26&list=PLWz5rJ2EKKc_HyE1QX9heAgTPdAMqc50z>
+[great_videos_faster_build]:<https://youtu.be/-SY5nkNVUn0?list=PLWz5rJ2EKKc_w6fodMGrA1_tsI3pqPbqa>
 [great_videos]:<https://caster.io/episodes/android-from-the-trenches/>
 [conferences_droidcon_berlin]: <https://www.youtube.com/channel/UCF4O2pQ8vBV8YmSAWb5QRPw>
 [conferences_droicon]: <https://www.youtube.com/user/droidcon>
