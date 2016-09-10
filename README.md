@@ -94,6 +94,9 @@ records each memory allocation that your app performs during the profiling cycle
 
 ### Great Playlists
 - [Big Android BBQ 2015][great_playlist_bb2015]
+- [Android Tool Time][great_playlist_tool_time]
+- [Android Testing Patterns][great_playlist_testing_patterns]
+- [Android Dev Summit 2015][great_playlist_summit]
 
 ## Great Talks.
 - [The expert's guide to Android development tools I/O 2016][great_videos_android_expert_guide] take an in-depth look into some of the advanced features of Android Studio.
@@ -255,6 +258,9 @@ records each memory allocation that your app performs during the profiling cycle
 [design_material_components]:<https://material.google.com/components/bottom-navigation.html>
 [design_patterns]:<https://material.google.com/patterns/>
 [great_playlist_bb2015]:<https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_HyE1QX9heAgTPdAMqc50z>
+[great_playlist_tool_time]:<https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_w6fodMGrA1_tsI3pqPbqa>
+[great_playlist_testing_patterns]:<https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-6HWg_jyP0U1zrVLHn65b2>
+[great_playlist_summit]:<https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_Tt7q77qwyKRgytF1RzRx8>
 [important_links_tools_android]:<http://tools.android.com/>
 [important_links_android_guide]:<https://developer.android.com/guide/index.html>
 [important_links_Android_training]:<https://developer.android.com/training/index.html>
