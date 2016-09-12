@@ -32,6 +32,9 @@ This a set of info that I have been compiling while I have been working on andro
 - [Activity Recognition][tools_activity_recognition]
 - [Vysor][tools_vysor] cast your devices screen into your desktop
 
+##Map
+- [Google Maps Android API Utility Library][map_android_api_util] Looking for advanced features to add to your maps, this is what you were looking forr.
+
 ####Performance
 - [StrictMode][tools_strict_mode] a developer tool which detects things you might be doing by accident.
 - [Profile GPU Rendering][tools_profile_gpu_rendering] gives you a quick visual representation of how much time it takes to render the frames of a UI.
@@ -264,3 +267,4 @@ records each memory allocation that your app performs during the profiling cycle
 [important_links_tools_android]:<http://tools.android.com/>
 [important_links_android_guide]:<https://developer.android.com/guide/index.html>
 [important_links_Android_training]:<https://developer.android.com/training/index.html>
+[map_android_api_util]:<https://developers.google.com/maps/documentation/android-api/utility/>
