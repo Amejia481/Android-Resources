@@ -50,6 +50,7 @@ records each memory allocation that your app performs during the profiling cycle
 
 ####Connectivity
 - [Charles Proxy][tools_connectivity_charles_proxy]  limit the bandwidth of your internet connection.
+- [Application Resource Optimizer ARO][tools_connectivity_aro]
 - [Fiddler][tools_connectivity_fiddler] debugging proxy for any browser, system or platform.
 - [Stetho][tools_connectivity_stetho] give you access to chrome devTools, network and database inspection of your app.
 
@@ -116,6 +117,7 @@ records each memory allocation that your app performs during the profiling cycle
 - [App Standby vs Doze: Understanding System Sleep][great_talk_doze_bbq2015] crash course on Doze mode
 - [Location, and Context, and Speed -- Oh My! (Big Android BBQ 2015)][great_videos_bbq2015_Location_context]
 - [Enable Android Studio's "Dex In Process" for Faster App Builds][great_videos_faster_build]
+- [What are you doing on the tiny mobile Network?][great_videos_what_you_tiny_network]
 
 ## Code Style
 
@@ -218,6 +220,7 @@ records each memory allocation that your app performs during the profiling cycle
 [tools_android_studio_strutural_remplacement]:<https://youtu.be/Y2GC6P5hPeA?t=390>
 [code_style_android_source_code_style]: <http://source.android.com/source/code-style.html>
 [tools_connectivity_charles_proxy]: <https://www.charlesproxy.com/>
+[tools_connectivity_aro]:<http://developer.att.com/application-resource-optimizer>
 [tools_connectivity_fiddler]:<http://www.telerik.com/fiddler>
 [tools_connectivity_stetho]: <http://facebook.github.io/stetho/>
 [tools_battery_battery_historian]: <https://github.com/google/battery-historian>
@@ -268,3 +271,4 @@ records each memory allocation that your app performs during the profiling cycle
 [important_links_android_guide]:<https://developer.android.com/guide/index.html>
 [important_links_Android_training]:<https://developer.android.com/training/index.html>
 [map_android_api_util]:<https://developers.google.com/maps/documentation/android-api/utility/>
+[great_videos_what_you_tiny_network]:<https://www.youtube.com/watch?v=PxQl56aJ09A>
