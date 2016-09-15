@@ -53,6 +53,7 @@ records each memory allocation that your app performs during the profiling cycle
 - [Application Resource Optimizer ARO][tools_connectivity_aro]
 - [Fiddler][tools_connectivity_fiddler] debugging proxy for any browser, system or platform.
 - [Stetho][tools_connectivity_stetho] give you access to chrome devTools, network and database inspection of your app.
+- [TrafficStats API][tools_connectivity_trafficsts_api]
 
 ####Battery
 - [Battery Historian][tools_battery_battery_historian] is a tool to inspect battery related information and events on an Android device.
@@ -223,6 +224,7 @@ records each memory allocation that your app performs during the profiling cycle
 [tools_connectivity_aro]:<http://developer.att.com/application-resource-optimizer>
 [tools_connectivity_fiddler]:<http://www.telerik.com/fiddler>
 [tools_connectivity_stetho]: <http://facebook.github.io/stetho/>
+[tools_connectivity_trafficsts_api]:<https://developer.android.com/reference/android/net/TrafficStats.html>
 [tools_battery_battery_historian]: <https://github.com/google/battery-historian>
 [tools_radio_jobschedular]:<https://developer.android.com/reference/android/app/job/JobScheduler.html>
 [tools_radio_gcmmanager]: <https://developers.google.com/cloud-messaging/network-manager#edit_your_applications_manifest>
