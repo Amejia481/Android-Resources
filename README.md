@@ -119,6 +119,7 @@ records each memory allocation that your app performs during the profiling cycle
 - [Location, and Context, and Speed -- Oh My! (Big Android BBQ 2015)][great_videos_bbq2015_Location_context]
 - [Enable Android Studio's "Dex In Process" for Faster App Builds][great_videos_faster_build]
 - [What are you doing on the tiny mobile Network?][great_videos_what_you_tiny_network]
+- [Deep Dive Into the Gradle Based Android Build System][great_talk_deep_dive_gradel]
 
 ## Code Style
 
@@ -206,6 +207,7 @@ records each memory allocation that your app performs during the profiling cycle
 [great_videos_retrofit2]:<https://realm.io/news/droidcon-jake-wharton-simple-http-retrofit-2/>
 [great_talk_doze_bbq2015]:<https://www.youtube.com/watch?v=Rwshwq_vI1s&index=26&list=PLWz5rJ2EKKc_HyE1QX9heAgTPdAMqc50z>
 [great_videos_faster_build]:<https://youtu.be/-SY5nkNVUn0?list=PLWz5rJ2EKKc_w6fodMGrA1_tsI3pqPbqa>
+[great_talk_deep_dive_gradel]:<https://youtu.be/Xw6CKEsWvxo?list=PLWz5rJ2EKKc_HyE1QX9heAgTPdAMqc50z>
 [great_videos]:<https://caster.io/episodes/android-from-the-trenches/>
 [conferences_droidcon_berlin]: <https://www.youtube.com/channel/UCF4O2pQ8vBV8YmSAWb5QRPw>
 [conferences_droicon]: <https://www.youtube.com/user/droidcon>
