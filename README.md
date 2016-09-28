@@ -8,6 +8,11 @@ This a set of info that I have been compiling while I have been working on andro
 - [Android Studio Project Site][important_links_tools_android] here you can find all info relate to android development tools
 - [Codelabs][important_links_codelabs] provide a guided, tutorial, hands-on coding experience
 
+## Testing
+- [Android Testing Patterns][android_testing_patterns] a youtube playlist with all you need to know about testing.
+- [Android Testing Support Library][testing_android_testing_support_library]  provides a set of APIs that allow you to quickly build and run test code
+- [Advanced Android Espresso (Big Android BBQ 2015)][testing_espressso_bbq2015] 
+- [Android Espresso Samples][testing_expresso_sample] a collection of samples demonstrating different Espresso techniques.
 
 ##Android Studio Tools
 - [APK Analyzer][android_studio_apk_analyzer]  give a X-ray look to your APK.
@@ -280,3 +285,7 @@ records each memory allocation that your app performs during the profiling cycle
 [important_links_codelabs]:<https://codelabs.developers.google.com/>
 [map_android_api_util]:<https://developers.google.com/maps/documentation/android-api/utility/>
 [great_videos_what_you_tiny_network]:<https://www.youtube.com/watch?v=PxQl56aJ09A>
+[testing_espressso_bbq2015]:<https://www.youtube.com/watch?v=hfoAC9gdC74/>
+[android_testing_patterns]:<https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-6HWg_jyP0U1zrVLHn65b2/>
+[testing_expresso_sample]:<https://github.com/chiuki/espresso-samples/>
+[testing_android_testing_support_library]:<https://google.github.io/android-testing-support-library/>
