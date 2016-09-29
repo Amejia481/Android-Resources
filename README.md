@@ -182,6 +182,8 @@ records each memory allocation that your app performs during the profiling cycle
 
 ##Cool Repos
 - [Android Universal Music Player][cool_repo_android_universal_music_repo] sample shows how to implement an audio media app that works across multiple form
+- [Material Witness][cool_repos_material_witness]
+- [Google I/O 2015 Codelabs][cool_repos_codelabs_io_2015]
 
 [great_podcast_fragmented_translating]:<http://fragmentedpodcast.com/episodes/049/>
 [youtube_gaming]: <https://medium.com/google-developers/how-often-should-you-update-android-studio-db25785c488e#.9dgn55z6k>
@@ -273,6 +275,8 @@ records each memory allocation that your app performs during the profiling cycle
 [libs_retrofit]:<https://github.com/square/retrofit>
 [libs_databases_sqlbrite]:<https://github.com/square/sqlbrite>
 [cool_repo_android_universal_music_repo]:<https://github.com/googlesamples/android-UniversalMusicPlayer>
+[cool_repos_material_witness]:<https://github.com/romainguy/google-io-2014>
+[cool_repos_codelabs_io_2015]:<https://github.com/googlesamples/io2015-codelabs>
 [design_material_components]:<https://material.google.com/components/bottom-navigation.html>
 [design_patterns]:<https://material.google.com/patterns/>
 [great_playlist_bb2015]:<https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_HyE1QX9heAgTPdAMqc50z>
