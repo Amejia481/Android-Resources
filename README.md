@@ -127,6 +127,8 @@ records each memory allocation that your app performs during the profiling cycle
 - [What are you doing on the tiny mobile Network?][great_videos_what_you_tiny_network]
 - [Deep Dive Into the Gradle Based Android Build System][great_talk_deep_dive_gradel]
 - [Android for Java Developers (Big Android BBQ 2015)][great_talk_android_for_java_developers]
+- [Twitter Flight 2015 - Building Mobile Applications for Unreliable Networks by Jie Jin][great_talk_twitter_flight_2015]
+- [Functional MVVM using RxJava and Android Data Binding - Manas Chaudhari, TinyOwl/Runnr][great_talk_functional_mvvm]
 
 ## Code Style
 
@@ -162,7 +164,7 @@ records each memory allocation that your app performs during the profiling cycle
 - [Picasso][libs_picasso] allows for hassle-free image loading in your application.
 - [Thumbor][libs_image_thumbor] is a smart imaging service. It enables on-demand crop, resizing and flipping of images.
 - [Pollexor][libs_image_pollexor] Java client for the Thumbor image service.
-
+- [Fresco][libs_image_fresco] An Android library for managing images and the memory they use.
 
 ### Reactive Programming
  - [Agera][reactive_programming_agera]
@@ -220,6 +222,8 @@ records each memory allocation that your app performs during the profiling cycle
 [great_videos_faster_build]:<https://youtu.be/-SY5nkNVUn0?list=PLWz5rJ2EKKc_w6fodMGrA1_tsI3pqPbqa>
 [great_talk_deep_dive_gradel]:<https://youtu.be/Xw6CKEsWvxo?list=PLWz5rJ2EKKc_HyE1QX9heAgTPdAMqc50z>
 [great_talk_android_for_java_developers]:<https://youtu.be/3R45xnCITFs>
+[great_talk_twitter_flight_2015]:<https://youtu.be/4G622GSIjeM>
+[great_talk_functional_mvvm]:<https://www.youtube.com/watch?v=JaB8SXCSbgg>
 [great_videos]:<https://caster.io/episodes/android-from-the-trenches/>
 [conferences_droidcon_berlin]: <https://www.youtube.com/channel/UCF4O2pQ8vBV8YmSAWb5QRPw>
 [conferences_droicon]: <https://www.youtube.com/user/droidcon>
@@ -271,6 +275,7 @@ records each memory allocation that your app performs during the profiling cycle
 [libs_dependency_injection_dagger]:<http://square.github.io/dagger/>
 [libs_image_thumbor]:<https://github.com/thumbor/thumbor/>
 [libs_image_pollexor]:<https://github.com/square/pollexor>
+[libs_image_fresco]:<https://code.facebook.com/projects/465232426958622/fresco/>
 [libs_moshi]:<https://github.com/square/moshi>
 [libs_widget_timessquare]:<https://github.com/square/android-times-square>
 [libs_okhttp]:<https://github.com/square/okhttp>
