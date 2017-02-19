@@ -14,7 +14,7 @@ This a set of info that I have been compiling while I have been working on andro
 - [Advanced Android Espresso (Big Android BBQ 2015)][testing_espressso_bbq2015] 
 - [Android Espresso Samples][testing_expresso_sample] a collection of samples demonstrating different Espresso techniques.
 
-##Android Studio Tools
+## Android Studio Tools
 - [APK Analyzer][android_studio_apk_analyzer]  give a X-ray look to your APK.
 - [Merged Manifest Viewer] [manifest_viewer] a clear view of your Manifest file of all the stuff that you didn't add there.
 - [UI Designer & Constraint Layout] [Designer_constraint_layout] It may help to create your layout quickly and easily, just using drag and drop.
@@ -26,10 +26,10 @@ This a set of info that I have been compiling while I have been working on andro
 - [Designtime Layout Attributes][tools_android_studio_designtime_attributes] attributes that are visible when the layout is rendered but not on runtime.
 - [Local History][tools_android_studio_local_history] see every change that you have made on a file even without installing VCS 
 
-##Android Architecture
+## Android Architecture
 - [Android Architecture Blueprints][android_architecture]
 
-##Tools 
+## Tools 
 - [Android Annotations][tools_android_annotations]
 - [Shrink Your Code and Resources][tools_shrink_code]
 - [Custom Tabs][tools_custom_tabs]
@@ -37,11 +37,9 @@ This a set of info that I have been compiling while I have been working on andro
 - [Timber][tools_timber] a small, extensible API which provides utility on top of Android's normal Log class.
 - [Activity Recognition][tools_activity_recognition]
 - [Vysor][tools_vysor] cast your devices screen into your desktop
+- [Generate POJO from JSON or JSON-Schema][libs_tools_pojo_jsons]
 
-##Map
-- [Google Maps Android API Utility Library][map_android_api_util] Looking for advanced features to add to your maps, this is what you were looking forr.
-
-####Performance
+#### Performance
 - [StrictMode][tools_strict_mode] a developer tool which detects things you might be doing by accident.
 - [Profile GPU Rendering][tools_profile_gpu_rendering] gives you a quick visual representation of how much time it takes to render the frames of a UI.
 - [Debug GPU overdraw][tools_debug_gpu_overdraw] shows you where your app might be doing more rendering work than necessary.
@@ -49,25 +47,25 @@ This a set of info that I have been compiling while I have been working on andro
 - [Systrace][tools_systrace] allows you to collect and inspect timing information across an entire Android device.
  
  
-####Memory
+#### Memory
 - [LeakCanary][tools_memory_leakcanary] a memory leak detection library.
 - [Allocation Tracker][tools_memory_allocation_tracker]
 records each memory allocation that your app performs during the profiling cycle
 
-####Connectivity
+#### Connectivity
 - [Charles Proxy][tools_connectivity_charles_proxy]  limit the bandwidth of your internet connection.
 - [Application Resource Optimizer ARO][tools_connectivity_aro]
 - [Fiddler][tools_connectivity_fiddler] debugging proxy for any browser, system or platform.
 - [Stetho][tools_connectivity_stetho] give you access to chrome devTools, network and database inspection of your app.
 - [TrafficStats API][tools_connectivity_trafficsts_api]
 
-####Battery
+#### Battery
 - [Battery Historian][tools_battery_battery_historian] is a tool to inspect battery related information and events on an Android device.
 
-####Radio
+#### Radio
 - [JobSchedular][tools_radio_jobschedular] or [GCMManager][tools_radio_gcmmanager] save a lot of juice to your app using batch calls
 
-####API
+#### API
 - [PostMan][tools_api_postman] a great tool test your APIs
 
 
@@ -75,6 +73,8 @@ records each memory allocation that your app performs during the profiling cycle
  - [Android Dev Official Blog][news_android_official_blog] all the announcement related to Android are posted here
  - [Android Dev Digest][news_android_dev_digest] a Handcrafted Weekly #AndroidDev Newsletter
 
+## Blogs
+- [Facebook Engineering][blogs_facebook_engineering]
 
 ## Tutorials
  - [Android Codelab][tutorials_android_codelab]
@@ -102,6 +102,7 @@ records each memory allocation that your app performs during the profiling cycle
 ## Youtube Channels 
 - [Square Engineering][youtube_channels_square_engineering]
 - [Android Developers][youtube_channels_android_developers]
+- [Realm][youtube_channels_android_realm]
 
 ### Great Playlists
 - [Big Android BBQ 2015][great_playlist_bb2015]
@@ -129,29 +130,32 @@ records each memory allocation that your app performs during the profiling cycle
 - [Android for Java Developers (Big Android BBQ 2015)][great_talk_android_for_java_developers]
 - [Twitter Flight 2015 - Building Mobile Applications for Unreliable Networks by Jie Jin][great_talk_twitter_flight_2015]
 - [Functional MVVM using RxJava and Android Data Binding - Manas Chaudhari, TinyOwl/Runnr][great_talk_functional_mvvm]
-
+- [GOTO 2016 Exploring RxJava 2 for Android Jake Wharton][great_talk_OTO_2016_Exploring_RxJava]
+- [GOTO 2016 Efficient Android Layouts Daniel Lew][great_talk_GOTO_2016_Android_Layouts]
+- [Droidcon Zagreb 2016 Android reactive programming with RxJava Ivan Morgillo][great_talk_Droidcon_2016_programming_RxJava_Ivan]
+- [Google I/O 2013 Volley Easy, Fast Networking for Android][great_talk_Google_IO_2013_Volley]
 ## Code Style
 
 - [Android Source Style][code_style_android_source_code_style]
 
 ##Education
 
-####Advanced
+#### Advanced
 
 - [Caster IO][education_advanced_casterio] advanced android courses give for specialist. 
 
 ## Great articles.
 - [How often should you update android studio][youtube_gaming]
 
-##Misc
-- [Open Source Android Apps][misc_android_app_set] collection of Android Apps which are open source
-- [Youtube gaming][youtube_gaming] create a video demo for your app.
-- [Percent Support Library][misc_percent_support_library]
 
-##Libs 
+## Libs 
 - [Moshi][libs_moshi] a modern JSON library for Android and Java.
 - [OkHttp][libs_okhttp] an HTTP+HTTP/2 client for Android and Java applications.
 - [Retrofit][libs_retrofit] type-safe HTTP client for Android and Java by Square, Inc.
+
+### Networking
+ - [Retrofit][libs_networking_retrofit]
+ - [Volley][libs_networking_volley] Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster. 
 
 ### Databases
 - [Sqlbrite][libs_databases_sqlbrite] a lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations.
@@ -167,27 +171,39 @@ records each memory allocation that your app performs during the profiling cycle
 - [Fresco][libs_image_fresco] An Android library for managing images and the memory they use.
 
 ### Reactive Programming
+ - [RxJava][reactive_programming_rxjava]
+ - [RxAndroid][reactive_programming_rxandroid]
  - [Agera][reactive_programming_agera]
+ 
 
-###Widget
+### Widget
 - [TimesSquare for Android][libs_widget_timessquare]
 
+### Map
+- [Google Maps Android API Utility Library][map_android_api_util] Looking for advanced features to add to your maps, this is what you were looking forr.
 
-##Android Communities Google+
+### Misc
+- [Percent Support Library][misc_percent_support_library]
+
+## Android Communities Google+
 - [Android Development][android_communities_google_plus]
 - [Android Studios][android_communities_google_plus_androd_studio]
 - [Android Developers Tools][android_communities_google_tools]
 
-##Design
+## Design
 - [Material Components][design_material_components]
 - [Patterns][design_patterns]
 
-##Cool Repos
+## Cool Repos
 - [Android Universal Music Player][cool_repo_android_universal_music_repo] sample shows how to implement an audio media app that works across multiple form
 - [Material Witness][cool_repos_material_witness]
 - [Google I/O 2015 Codelabs][cool_repos_codelabs_io_2015]
 - [ExoPlayer][cool_repos_exoplayer] ExoPlayer is an application level media player for Android. It provides an alternative to Android’s MediaPlayer API for playing audio and video both locally and over the Internet.
+- [Open Source Android Apps][misc_android_app_set] collection of Android Apps which are open source
 
+## Misc
+
+- [Youtube gaming][youtube_gaming] create a video demo for your app.
 
 [great_podcast_fragmented_translating]:<http://fragmentedpodcast.com/episodes/049/>
 [youtube_gaming]: <https://medium.com/google-developers/how-often-should-you-update-android-studio-db25785c488e#.9dgn55z6k>
@@ -207,6 +223,7 @@ records each memory allocation that your app performs during the profiling cycle
 [tools_vysor]:<http://www.vysor.io/>
 [tools_timber]:<https://github.com/JakeWharton/timber>
 [tools_material_icons]:<https://design.google.com/icons/>
+[libs_tools_pojo_jsons]:<http://www.jsonschema2pojo.org/>
 [great_video_why_gradel]: <https://www.youtube.com/watch?v=LCJAgPkpmR0>
 [great_video_myth_busting_https]: <https://youtu.be/e6DUrH56g14>
 [great_videos_responsive_design]: <https://www.youtube.com/watch?v=zHirwKGEfoE>
@@ -224,6 +241,9 @@ records each memory allocation that your app performs during the profiling cycle
 [great_talk_android_for_java_developers]:<https://youtu.be/3R45xnCITFs>
 [great_talk_twitter_flight_2015]:<https://youtu.be/4G622GSIjeM>
 [great_talk_functional_mvvm]:<https://www.youtube.com/watch?v=JaB8SXCSbgg>
+[great_talk_Google_IO_2013_Volley]:<https://www.youtube.com/watch?v=yhv8l9F44qo>
+[great_talk_Droidcon_2016_programming_RxJava_Ivan]:<https://www.youtube.com/watch?v=HHylV_OiILY>
+[great_talk_GOTO_2016_Android_Layouts]:<https://youtu.be/X4qMBpDsVnM>
 [great_videos]:<https://caster.io/episodes/android-from-the-trenches/>
 [conferences_droidcon_berlin]: <https://www.youtube.com/channel/UCF4O2pQ8vBV8YmSAWb5QRPw>
 [conferences_droicon]: <https://www.youtube.com/user/droidcon>
@@ -234,6 +254,7 @@ records each memory allocation that your app performs during the profiling cycle
 [tools_android_studio_designtime_attributes]:<https://youtu.be/Y2GC6P5hPeA?t=604>
 [youtube_channels_square_engineering]: <https://www.youtube.com/user/SquareEngineering>
 [youtube_channels_android_developers]:<https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg>
+[youtube_channels_android_realm]:<https://www.youtube.com/channel/UCYxbyg0w6glAlJnEOniMpfA>
 [android_studio_tools_espresso_test_recorder]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=2490>
 [tools_android_studio_shortcuts]:<https://developer.android.com/studio/intro/keyboard-shortcuts.html>
 [tools_android_studio_strutural_remplacement]:<https://youtu.be/Y2GC6P5hPeA?t=390>
@@ -269,7 +290,10 @@ records each memory allocation that your app performs during the profiling cycle
 [android_communities_google_tools]:<https://plus.google.com/communities/114791428968349268860>
 [great_podcast_fragmented_45]:<http://fragmentedpodcast.com/episodes/45/>
 [great_podcast_adb_webview]:<http://androidbackstage.blogspot.com/2015/11/episode-37-webview.html>
+[great_talk_OTO_2016_Exploring_RxJava]:<https://www.youtube.com/watch?v=htIXKI5gOQU>
 [reactive_programming_agera]:<https://github.com/google/agera>
+[reactive_programming_rxjava]:<https://github.com/ReactiveX/RxJava>
+[reactive_programming_rxandroid]:<https://github.com/ReactiveX/RxAndroid>
 [libs_glide]:<https://github.com/bumptech/glide>
 [libs_picasso]:<http://square.github.io/picasso/>
 [libs_dependency_injection_dagger]:<http://square.github.io/dagger/>
@@ -281,6 +305,8 @@ records each memory allocation that your app performs during the profiling cycle
 [libs_okhttp]:<https://github.com/square/okhttp>
 [libs_retrofit]:<https://github.com/square/retrofit>
 [libs_databases_sqlbrite]:<https://github.com/square/sqlbrite>
+[libs_networking_retrofit]:<https://square.github.io/retrofit/>
+[libs_networking_volley]:<https://developer.android.com/training/volley/index.html>
 [cool_repo_android_universal_music_repo]:<https://github.com/googlesamples/android-UniversalMusicPlayer>
 [cool_repos_material_witness]:<https://github.com/romainguy/google-io-2014>
 [cool_repos_codelabs_io_2015]:<https://github.com/googlesamples/io2015-codelabs>
@@ -301,3 +327,4 @@ records each memory allocation that your app performs during the profiling cycle
 [android_testing_patterns]:<https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-6HWg_jyP0U1zrVLHn65b2/>
 [testing_expresso_sample]:<https://github.com/chiuki/espresso-samples/>
 [testing_android_testing_support_library]:<https://google.github.io/android-testing-support-library/>
+[blogs_facebook_engineering]:<https://code.facebook.com/android/>
