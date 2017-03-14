@@ -201,6 +201,11 @@ records each memory allocation that your app performs during the profiling cycle
 - [ExoPlayer][cool_repos_exoplayer] ExoPlayer is an application level media player for Android. It provides an alternative to Android’s MediaPlayer API for playing audio and video both locally and over the Internet.
 - [Open Source Android Apps][misc_android_app_set] collection of Android Apps which are open source
 
+## Learning Kotlin
+ - [GOTO 2016 Better Android Development with Kotlin and Gradle by Ty Smith][learning_kotlin_better_android_development]
+ - [GOTO 2016 Kotlin - Ready for Production by Hadi Hariri][learning_kotlin_kotlin_ready_for_production]
+ - [Talking Kotlin][learning_kotlin_kotlin_podcast] a Kotlin Podcast
+
 ## Misc
 
 - [Youtube gaming][youtube_gaming] create a video demo for your app.
@@ -328,3 +333,6 @@ records each memory allocation that your app performs during the profiling cycle
 [testing_expresso_sample]:<https://github.com/chiuki/espresso-samples/>
 [testing_android_testing_support_library]:<https://google.github.io/android-testing-support-library/>
 [blogs_facebook_engineering]:<https://code.facebook.com/android/>
+[learning_kotlin_better_android_development]:<https://www.youtube.com/watch?v=_DaZQ374Chc>
+[learning_kotlin_kotlin_ready_for_production]:<https://www.youtube.com/watch?v=R0J_Jl7bKY8&t=20s>
+[learning_kotlin_kotlin_podcast]:<http://talkingkotlin.com/>
