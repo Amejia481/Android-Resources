@@ -81,9 +81,9 @@ records each memory allocation that your app performs during the profiling cycle
  - [Intro Lambdas android][tutorial_intro_lambdas]
  
 ## Podcast
-- [fragmentedpodcast] [podcast_fragmented]
-- [androidbackstage] [podcast_androidbackstage]
-- [Android Dialogs] [podcast_adroid_dialogs]
+- [fragmentedpodcast][podcast_fragmented]
+- [androidbackstage][podcast_androidbackstage]
+- [Android Dialogs][podcast_adroid_dialogs]
 - [Android Intelligence][podcast_android_intelligence]
 - [The Context][podcast_android_the_context]
 
@@ -138,7 +138,7 @@ records each memory allocation that your app performs during the profiling cycle
 
 - [Android Source Style][code_style_android_source_code_style]
 
-##Education
+## Education
 
 #### Advanced
 
@@ -216,7 +216,7 @@ records each memory allocation that your app performs during the profiling cycle
 [android_studio_apk_analyzer]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=333>
 [manifest_viewer]:<https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=429>
 [Designer_constraint_layout]: <https://youtu.be/csaXml4xtN8?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte&t=1558>
-[podcast_fragmented]: <http://fragmentedpodcast.com/>
+[podcast_fragmented]:<http://fragmentedpodcast.com/>
 [podcast_androidbackstage]: <http://androidbackstage.blogspot.com/>
 [gread_podcast_translating]:<http://fragmentedpodcast.com/episodes/049/>
 [podcast_adroid_dialogs]: <https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed> 
