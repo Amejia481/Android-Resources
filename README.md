@@ -38,6 +38,7 @@ This a set of info that I have been compiling while I have been working on andro
 - [Activity Recognition][tools_activity_recognition]
 - [Vysor][tools_vysor] cast your devices screen into your desktop
 - [Generate POJO from JSON or JSON-Schema][libs_tools_pojo_jsons]
+- [CLASSYSHARK](http://classyshark.com/) a handy Android and Java executables viewer.
 
 #### Performance
 - [StrictMode][tools_strict_mode] a developer tool which detects things you might be doing by accident.
